@@ -18,3 +18,4 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 
 # Grabaciones de clase
 ## Modulo 1
+- 05/02/2024 Introducción a HTML https://youtu.be/nE31bE5WqGg
