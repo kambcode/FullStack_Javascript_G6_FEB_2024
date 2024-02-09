@@ -13,12 +13,7 @@ A continuación te presentamos un ejemplo del album que debes crear:
 
 ![homework_2](./homework_album.png)
 
-## Trabajar en parejas:
-- Jhon Velasco - Jhonathan Suarez - Study Room 1
-- Robin Villamizar - Claudia Lorena - Study Room 2
-- Gullermo Martinez - Elizabeth Perez - Study Room 3
-- Alejandra Taba - Maicol Amaya - Freider Leandro - Study Room 4
-- Estiven Valencia
-- Alejando Valderrama
-- Juan Cubillos
-- Edison Suarez
+**NOTA**
+Como sugerencia te recomendamos pensar en dos tablas para hacer esta tarea:
+
+![image](https://github.com/kambcode/FullStack_Javascript_G20_2023_11_20/assets/146487542/7bcff67e-3633-4aa6-aeca-10a91d26c5e0)
