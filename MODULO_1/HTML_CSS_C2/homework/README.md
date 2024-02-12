@@ -16,4 +16,4 @@ A continuación te presentamos un ejemplo del album que debes crear:
 **NOTA**
 Como sugerencia te recomendamos pensar en dos tablas para hacer esta tarea:
 
-![image](https://github.com/kambcode/FullStack_Javascript_G20_2023_11_20/assets/146487542/7bcff67e-3633-4aa6-aeca-10a91d26c5e0)
+![image](https://github.com/kambcode/FullStack_Javascript_G6_FEB_2024/assets/146487542/cbf9f067-80e8-4bbf-802b-c4734e0a7580)
