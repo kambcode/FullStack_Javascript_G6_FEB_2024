@@ -1,0 +1,26 @@
+h1 {
+    /* color cambia el color de la letra */
+    color: red;
+}
+
+p {
+   color: blue;
+   /* font-size define el tamaño de la letra (fuente) */
+   font-size: 36px;
+   /* font-family tipo de fuente */
+   font-family: sans-serif;
+}
+
+button {
+    /* background-color cambia el color de fondo */
+    background-color: blue;
+    color: white;
+    font-size: 24px;
+    /* border-color cambia el color de el borde */
+    border-color: brown;
+}
+
+h2 {
+    background-color: aquamarine;
+    color: blueviolet;
+}
