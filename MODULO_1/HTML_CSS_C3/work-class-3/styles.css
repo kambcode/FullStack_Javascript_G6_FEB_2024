@@ -1,0 +1,28 @@
+body {
+    background-color: aqua;
+}
+
+h1 {
+    /* Podemos poner colores espoecificos 
+    con rgb */
+
+    /* color: rgb(83, 78, 221); */
+
+    /* podemos poner colore tambien 
+    con el código hexadecimal */
+    color: #4C57C3;
+}
+
+img {
+    width: 300px;
+    /* height: 300px; */
+}
+
+/* La almoadilla # significa selector por ID */
+#titleRed {
+    color: rgb(234, 19, 19);
+} 
+
+#title-green {
+    color: green;
+}
