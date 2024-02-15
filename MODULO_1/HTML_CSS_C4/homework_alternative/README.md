@@ -14,6 +14,6 @@ usa la siguiente imágen de fondo https://ichef.bbc.co.uk/wwhp/999/cpsprodpb/125
 
 - ![tarea1](./resources/Tarea2.jpeg)
 
-**NOTA**: Usa los conocimientos que tenemos hasta el momento, por ejemplo si no sabes como hacer este esapcio puedes usar algunas etiquetas `<br>` en HTML para lograr este espacio:
+**NOTA**: Usa los conocimientos que tenemos hasta el momento, por ejemplo si no sabes como hacer este espacio puedes usar algunas etiquetas `<br>` en HTML para lograr este espacio:
 
 ![image](https://github.com/kambcode/FullStack_Javascript_G6_FEB_2024/assets/146487542/f7f354b0-1b80-4b3b-b241-30f74364beb7)
