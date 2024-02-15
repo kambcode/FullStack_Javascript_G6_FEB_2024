@@ -10,7 +10,7 @@ En la generación de estilos hay infinitas maneras de llegar a un mismo resultad
    - ![tarea1](./resources/Tarea1.png)
 
 2. Ahora intenta replicar el siguinete contenedor de noticias de la BBC. Para ello
-usa la siguiente imágen de fondo https://ichef.bbc.co.uk/wwhp/999/cpsprodpb/125E8/production/_131104257_resize.jpg. Recuerda usar la propiedad de CSS `background-image`. 
+usa la siguiente imágen de fondo https://ichef.bbc.co.uk/wwhp/999/cpsprodpb/125E8/production/_131104257_resize.jpg. Recuerda usar la propiedad de CSS `background-image: url("<RUTA_IMAGEN>")` y `background-size: cover`. 
 
 - ![tarea1](./resources/Tarea2.jpeg)
 
