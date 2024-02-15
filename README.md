@@ -23,3 +23,4 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - 07/02/2024 Formularios HTML https://youtu.be/xmFGEKOrnvY
 - 08/02/2024 Tablas en HTML https://youtu.be/61YGUcOHhtQ
 - 12/02/2024 Introducción a CSS https://youtu.be/1rSF2hQpWFc
+- 14/02/2024 Box model Parte 1 https://youtu.be/ePqkEq24vvU
