@@ -24,3 +24,5 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - 08/02/2024 Tablas en HTML https://youtu.be/61YGUcOHhtQ
 - 12/02/2024 Introducción a CSS https://youtu.be/1rSF2hQpWFc
 - 14/02/2024 Box model Parte 1 https://youtu.be/ePqkEq24vvU
+- 16/02/2024 Box Model parte 2 (margin y padding)  https://youtu.be/MHarUI2Gimk
+
