@@ -25,4 +25,5 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - 12/02/2024 Introducción a CSS https://youtu.be/1rSF2hQpWFc
 - 14/02/2024 Box model Parte 1 https://youtu.be/ePqkEq24vvU
 - 16/02/2024 Box Model parte 2 (margin y padding)  https://youtu.be/MHarUI2Gimk
+- 19/02/2024 Flex box https://youtu.be/WV7jMmPAVik
 
