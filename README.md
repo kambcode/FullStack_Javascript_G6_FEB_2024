@@ -26,4 +26,4 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - 14/02/2024 Box model Parte 1 https://youtu.be/ePqkEq24vvU
 - 16/02/2024 Box Model parte 2 (margin y padding)  https://youtu.be/MHarUI2Gimk
 - 19/02/2024 Flex box https://youtu.be/WV7jMmPAVik
-
+- 21/02/2024 Flex box Parte 2 https://youtu.be/B4EMpJkLUdg
