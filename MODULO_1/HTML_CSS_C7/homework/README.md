@@ -11,7 +11,7 @@ Aplica los estilos dados según las condiciones especificadas de manera de llega
    
    - [mediaqueries_homework.webm](https://github.com/kambcode/FullStack_Javascript_G1_2023_06_26/assets/137812574/ec4e36d3-d37a-4cda-bad7-f868d595f106)
 
-   - Recuerda usar el patrón de diseño `mobile first` (Primero genera el comportamiento para mobile y depues si ajustalo para pantallas mas grandes). Además utiliza 720px como breakpoint
+   - Puedes utilizar 720px como breakpoint
 
 2. Ahora vamos a replicar el banner principal de la página de kambcode, para ello crea un componente que en escritorio se vea de la siguiente forma 
    - ![desktop.png](./../resources/kambcode_landing_desktop.png)
