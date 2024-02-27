@@ -31,5 +31,7 @@ A continuación encontrarás las URL de las imágenes que vas a necesitar para d
 Si quieres que la imagen de background se vea con una capa de color azul igual a como está el diseño, entonces, agregar el siguiente estilo 
 `background-image: linear-gradient(90deg, rgba(255, 255, 255),  rgba(6, 48, 184, 0.50)), url("<URL_DE_LA_IMAGEN>");`. Investiga sobre gradientes en CSS3 para entender cómo funciona esto https://www.w3schools.com/css/css3_gradients.asp
 
+No olvides usar `background-size: cover;` para que la imagen de fondo se ajuste automaticamente.
+
 En mobile el estilo del background será: `background-image: linear-gradient(90deg, rgba(0, 0, 0, 0.5),  rgba(6, 48, 184, 0.50)), url("<URL_DE_LA_IMAGEN>");`
 
