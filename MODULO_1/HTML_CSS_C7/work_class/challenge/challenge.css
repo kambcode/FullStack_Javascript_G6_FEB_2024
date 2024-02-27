@@ -1,0 +1,10 @@
+.menu {
+    display: flex;
+    flex-direction: row;
+}
+.item {
+    padding: 10px 40px;
+    background-color: grey;
+    color: white;
+    font-size: 36px;
+}
