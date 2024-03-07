@@ -33,4 +33,5 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - 01/03/2024 Grid parte 2 https://youtu.be/H5Ys3_q7xl4
 
 ## Modulo 2
-- 04/03/2023 Variables y tipos de datos en JS https://youtu.be/a-NSmNUzVEk
+- 04/03/2024 Variables y tipos de datos en JS https://youtu.be/a-NSmNUzVEk
+- 06/03/2024 Condicionales (if-else) https://youtu.be/UypJfk93Udg
