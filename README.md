@@ -35,4 +35,4 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 ## Modulo 2
 - 04/03/2024 Variables y tipos de datos en JS https://youtu.be/a-NSmNUzVEk
 - 06/03/2024 Condicionales (if-else) https://youtu.be/UypJfk93Udg
--  08/03/2024 Constantes y operadores lógicos en JS https://youtu.be/lfGHbZ1TaFQ
+- 08/03/2024 Constantes y operadores lógicos en JS https://youtu.be/lfGHbZ1TaFQ
