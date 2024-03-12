@@ -11,5 +11,3 @@ Como tarea te proponemos crear algunos programas usando variables, operadores lo
 2. Ahora vamos a crea tu propia calculadora utilizando **if -> else if**. Escribe un programa que solicite a el usuario ingresar dos numeros `numberA` y `numberB` y además que se solicite ingresar la operación que desea ejecutar (`suma`, `resta`, `multiplicacion` o `division`). tu programa debe mostrar en pantalla los dos numeros que el usuario seleccionó y el resultado de la operación entre dos numeros.
 
 3. Escribe un programa utilizando el patron **if -> else if -> else** que solicite al usuario ingresar dos números, tu programa debe mostrar cuál de los dos es menor (Ejemplo si el usuario ingresa 3 y 1, la salida de el programa debe ser `El numero menor es 1`). Considerar el caso en que ambos números son iguales, en ese caso la salida de tu programa debe ser `Los numeros son iguales`.
-
-
