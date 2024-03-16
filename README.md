@@ -38,3 +38,4 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - 08/03/2024 Constantes y operadores lógicos en JS https://youtu.be/lfGHbZ1TaFQ
 - 11/03/2024 If -> else if -> else https://youtu.be/-jkzb_2FqDs
 - 13/03/2024 While y for https://youtu.be/QQnlBaFwWxs
+- 15/03/2024 Var y let / Instalación de node JS https://youtu.be/DC_oLxIunNc
