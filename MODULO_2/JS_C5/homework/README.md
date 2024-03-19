@@ -6,7 +6,7 @@ Las tareas de los módulos son pensadas para profundizar en los temas expuestos 
 
 Como tarea te proponemos crear algunos programas usando todo lo visto hasta ahora (arrays, loops, condicionales y variables):
 
-1. Crea un array `myArray` de 50 números, que contendrá 50 numeros números aleatorios entre 1 y 10. 
+1. Crea un array `myArray` de 50 elementos (números), que contendrá 50 numeros números aleatorios entre 1 y 10. Ejemplo `[ 3, 2 , 6, 8, 1, 3, 5, 2 .....]` (50 elementos)
 
 2. Escribir un programa usando HTML, Javascript y la función promt que pregunte a el usuario una lista de compras y las vaya almacenando cada una de estos elementos en un array. Si en algun momento la tarea que el usuario ingreso ya fue ingresada anteriormente (es decir ya pertence a el array) elemento NO debe añadirse a el array y en su defecto mostrar un mensaje que diga "Error: Esta elementos ya esta en la lista de compras".
 
