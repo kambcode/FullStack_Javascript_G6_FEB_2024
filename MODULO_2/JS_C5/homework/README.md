@@ -10,6 +10,8 @@ Como tarea te proponemos crear algunos programas usando todo lo visto hasta ahor
 
 2. Escribir un programa usando HTML, Javascript y la función promt que pregunte a el usuario una lista de compras y las vaya almacenando cada una de estos elementos en un array. Si en algun momento la tarea que el usuario ingreso ya fue ingresada anteriormente (es decir ya pertence a el array) elemento NO debe añadirse a el array y en su defecto mostrar un mensaje que diga "Error: Este elementos ya esta en la lista de compras".
 
+El programa termina cuando la lista de compras tenga 5 elementos
+
 **NOTA** recuerda que para saber si un elemento ya esta en el array puedes usar la función includes eg: `myArray.includes(<ELEMENTO_QUE_QUIERES_BUSCAR_EN_EL_ARRAY>)`
 
 3. Usando el array que creaste en el punto 1, vamos a crear un nuevo arreglo llamado `newArray` que contenga solo los numeros que son menores a 4. Ejemplo si en punto 1 generaste un arreglo  `myArray` como este [7,2,5,2,9,3,1,4,8], tu nuevo arreglo `newArray` debera ser [2,2,3,1].
