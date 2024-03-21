@@ -40,3 +40,4 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - 13/03/2024 While y for https://youtu.be/QQnlBaFwWxs
 - 15/03/2024 Var y let / Instalación de node JS https://youtu.be/DC_oLxIunNc
 - 18/03/2024 Arrays y Math https://youtu.be/iFizI1xp55w
+- 20/03/2024 Funciones https://youtu.be/glXf65K-b_0
