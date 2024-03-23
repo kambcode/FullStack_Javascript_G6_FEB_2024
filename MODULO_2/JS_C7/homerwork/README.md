@@ -20,7 +20,7 @@ Las tareas de los módulos son pensadas para profundizar en los temas expuestos 
     - **calcularImc** función que retorne el IMC recuerda que IMC = peso / (altura*altura)
     - **esMayorDeEdad** función que retorna true / false dependiendo de si la edad de la persona es mayor a 18 años o no
 
-3. Crear un objeto llamdo libro, y que tiene las siguientes propiedades
+3. Crear un objeto llamado libro, y que tiene las siguientes propiedades
     - **Nombre** string
     - **Fecha de publicacion** string
     - **Price** number
