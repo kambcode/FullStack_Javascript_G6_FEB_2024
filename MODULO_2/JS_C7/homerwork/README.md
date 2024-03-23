@@ -13,7 +13,7 @@ Las tareas de los módulos son pensadas para profundizar en los temas expuestos 
     - **año de lanzamiento** number
 
 2. Crearemos un objeto llamado Persona cuyos atributos son:  
-    - **Numbre**  string
+    - **nombre**  string
     - **edad** number
     - **peso** string
     - **altura** string
