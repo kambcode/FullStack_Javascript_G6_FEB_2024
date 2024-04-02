@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+    <h1 class="title"> 
+        Modificando el DOM con Javascript 
+    </h1>
+
+    <p id="text-1"> 
+        Ejemplo 1: Este parrafo va a 
+        <b>cambiar</b> 
+        cuando se le de click a el botón. 
+    </p>
+    <button class="button" onclick="changeText()"> 
+        Modificar texto 
+    </button>
+
+    <h3> Ejemplo 2 Listado de participantes </h3>
+    <p> Cuando le des click a el boton 
+        "Agregar participante" se va a 
+        añadir un elemnto a la lista</p>
+    <ul id="list-1">
+        <li>Edisson</li>
+        <li>Brigit</li>
+        <li>Angel</li>
+    </ul>
+
+    <button onclick="addToList()"> 
+        Agregar participante 
+    </button>
+
+    
+    <script src="./main.js"></script>
+</body>
+</html>
