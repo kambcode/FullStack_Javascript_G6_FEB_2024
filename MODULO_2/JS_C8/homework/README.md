@@ -13,6 +13,7 @@ Los criterios de aceptación de tu lista de compras son:
 3. El diseño es totalmente libre. Pero a continuación encontrarás un demo de cómo debe funcionar tu lista de compras. 
 
 [![Demo](https://img.youtube.com/vi/cypni3sVz7s/0.jpg)](https://www.youtube.com/watch?v=cypni3sVz7s)
+
 https://www.youtube.com/watch?v=cypni3sVz7s
 
 
