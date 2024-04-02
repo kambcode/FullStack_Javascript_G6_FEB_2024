@@ -12,11 +12,8 @@ Los criterios de aceptación de tu lista de compras son:
 2. Debes incluir un botón llamado "Add Item" o "Agregar a la lista", una vez el usuario de click a el boton, el producto que se escribió en el punto 1 se debe agreagr a la lista (utiliza un array de strings para almacenar los productos de la lista)
 3. El diseño es totalmente libre. Pero a continuación encontrarás un demo de cómo debe funcionar tu lista de compras. 
 
-<figure class="video_container">
- <video controls="true" allowfullscreen="true">
- <source src="../resources/shoping_list.mov" type="video/mov">
- </video>
-</figure>
+[![Demo](https://img.youtube.com/vi/cypni3sVz7s/0.jpg)](https://www.youtube.com/watch?v=cypni3sVz7s)
+
 
 4. Todo el codigo de javascript debe estar incluido en un archivo de JS. 
 5. **OPCIONAL**: Crea un boton llamdo "Limpiar lista" que debe dejar la lista de compras en blanco eliminando todos los elementos de la misma
