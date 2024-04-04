@@ -1,0 +1,12 @@
+.hidden {
+    display: none;
+}
+
+.btn {
+    background-color: aqua;
+}
+
+.error {
+    color: red;
+    font-size: 12px;
+}
