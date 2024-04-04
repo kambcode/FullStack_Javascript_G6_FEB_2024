@@ -8,7 +8,7 @@ Para esta vamos a crear un Juego de avinar un numero.
 
 Los criterios de aceptación de este juego son:
 
-1. El juego debe generar un **número aleatorio entre 1 y 100 al cargar la página**, la idea principal de el juego es que el usaurio pueda aviniar ese numero aleatorio
+1. El juego debe generar un **número aleatorio entre 1 y 100 al cargar la página**, la idea principal de el juego es que el usuario pueda adivinar ese numero aleatorio.
 2. Interfaz de Usuario:
 
     - Debe mostrar un título que indique claramente que se trata de un juego de adivinar el número.
