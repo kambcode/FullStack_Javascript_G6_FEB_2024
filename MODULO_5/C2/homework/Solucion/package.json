@@ -1,0 +1,25 @@
+{
+    "name": "proyecto-tarea",
+    "version": "1.2.0",
+    "description": "Esta es la descripción del proyecto",
+    "main": "init.js",
+    "type": "module",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "watch": "nodemon init.js"
+    },
+    "keywords": [
+        "tarea",
+        "actividad",
+        "estudio"
+    ],
+    "author": "Pepito Perez",
+    "license": "ISC",
+    "devDependencies": {
+        "nodemon": "^2.0.20"
+    },
+    "dependencies": {
+        "chance": "^1.1.9",
+        "moment": "^2.29.4"
+    }
+}
