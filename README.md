@@ -44,3 +44,4 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - 22/03/2024 Objetos y arrow function https://youtu.be/FtOKtcWU53A
 - 01/04/2024 Modificando el DOM con JS https://youtu.be/vgUd4EsND50
 - 03/04/2024 Modificando el DOM con JS (Parte 2) https://youtu.be/Wo1r2vlCWNI
+- 05/04/2024 Clase Final y preguntas tipo entrevista https://youtu.be/QKYsDvzfg3w

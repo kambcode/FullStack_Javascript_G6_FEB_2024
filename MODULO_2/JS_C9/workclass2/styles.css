@@ -1,0 +1,14 @@
+.title {
+    color: blue;
+}
+
+.titleRed {
+    color: red;
+}
+
+button {
+    background-color: aqua;
+    border-radius: 10px;
+    cursor: pointer;
+    padding: 10px 20px;
+}
