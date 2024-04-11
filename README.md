@@ -48,3 +48,4 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 
 ## Modulo 3
 - 08/04/2024 Introduccion git, crear repositorio y subir un proyecto https://youtu.be/l75rnSd5-vM
+- 10/04/2024 Clonar, actualizar y crear ramas en un repositorio https://youtu.be/laEVv5aFlFg
