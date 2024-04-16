@@ -1,6 +1,19 @@
-# Tarea: Creación de Diagrama de Flujo de un Proceso Laboral
+# Tarea: Diagramas de flujo
 
-### Objetivo:
+Como tarea te proponemos crear algunos diagramas de flijo dados los siguientes problemas
+
+
+## 1. Calcular el area de un triangulo
+Calcular el área de un triángulo.
+
+### Pasos a seguir:
+ 
+- Solicitar al usuario que ingrese la base del triángulo.
+- Solicitar al usuario que ingrese la altura del triángulo.
+- Calcular el área del triángulo utilizando la fórmula: área = (base * altura) / 2.
+- Mostrar el resultado al usuario.
+
+## 2. Creación de Diagrama de Flujo de un Proceso Laboral:
 
 Representar visualmente un proceso específico relacionado con el trabajo de cada estudiante utilizando un diagrama de flujo.
 
@@ -30,6 +43,6 @@ Representar visualmente un proceso específico relacionado con el trabajo de cad
   Después de crear el diagrama de flujo inicial, los estudiantes deberán revisarlo cuidadosamente para detectar posibles errores o áreas de mejora.
   Deberán realizar las ediciones necesarias para mejorar la claridad y precisión del diagrama.
 
-### Entrega:
+## Entrega:
 
-    Cada estudiante deberá enviar al instructor/a un enlace a su repositorio personal con el archivo del diagrama de flujo.
+Cada estudiante deberá crear una rama para la tarea con el nombre Tarea-3-Clase-4 y crear un pull request en el repositorio de github que se tiene en común para las tareas.

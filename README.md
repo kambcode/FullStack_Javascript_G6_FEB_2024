@@ -50,3 +50,4 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - 08/04/2024 Introduccion git, crear repositorio y subir un proyecto https://youtu.be/l75rnSd5-vM
 - 10/04/2024 Clonar, actualizar y crear ramas en un repositorio https://youtu.be/laEVv5aFlFg
 - 13/04/2024 Publicar rama, crear pull request y actualizar repositorio con cambios https://youtu.be/kfZ9tUPqQ1s
+- 15/04/2024 Algoritmos y diagramas de flujo https://youtu.be/lJQBO9VUPw0

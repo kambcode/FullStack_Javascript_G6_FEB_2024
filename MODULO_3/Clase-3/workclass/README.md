@@ -1,4 +1,4 @@
-### Tarea: Comandos Git
+### Comandos Git
 
 - `git init`: Inicializa un nuevo repositorio Git en el directorio actual.
 - `git add .`: Agrega todos los archivos modificados y nuevos al área de preparación (staged changes).
