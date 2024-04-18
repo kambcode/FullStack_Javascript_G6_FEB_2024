@@ -51,3 +51,4 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - 10/04/2024 Clonar, actualizar y crear ramas en un repositorio https://youtu.be/laEVv5aFlFg
 - 13/04/2024 Publicar rama, crear pull request y actualizar repositorio con cambios https://youtu.be/kfZ9tUPqQ1s
 - 15/04/2024 Algoritmos y diagramas de flujo https://youtu.be/lJQBO9VUPw0
+- 17/04/2024 Operadores de comparación y operadores lógicos https://youtu.be/UfcRsNQy3Ws
