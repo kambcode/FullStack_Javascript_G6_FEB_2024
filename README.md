@@ -53,3 +53,4 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - 15/04/2024 Algoritmos y diagramas de flujo https://youtu.be/lJQBO9VUPw0
 - 17/04/2024 Operadores de comparación y operadores lógicos https://youtu.be/UfcRsNQy3Ws
 - 19/04/2024 Repaso de git para el paso a paso de como subir las tareas https://youtu.be/gCC6clVfkcw
+- 22/04/2024 Arrays y objetos https://youtu.be/HY9zO0ttDco
