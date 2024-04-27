@@ -55,3 +55,4 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - 19/04/2024 Repaso de git para el paso a paso de como subir las tareas https://youtu.be/gCC6clVfkcw
 - 22/04/2024 Arrays y objetos https://youtu.be/HY9zO0ttDco
 - 24/04/2024 ES6 arrays features y scope https://youtu.be/5jS7zbU9JYA
+- 26/04/2024 Repaso de funciones y callbacks https://youtu.be/Qp_EfHKrpuQ
