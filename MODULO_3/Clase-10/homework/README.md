@@ -1,6 +1,10 @@
 # Tarea 10
 
-Hacer un programa que simule una peticion a un servidor, con delay de 2000 ms, donde obtenga una informacion de usuarios. Si el usuario esta logueado (isLogged) la promesa se resueve con los usuarios (users), si no se rechaza un mensaje diciendo "No estas logueado dentro de la app". Dentro de cada usuario hay una propiedad id de persona (personId) que servirá para obtener la informacion de cada persona,  simulando otra peticion tambien con delay de 5000 ms.
+Hacer un programa que simule una peticion a un servidor, con delay de 2000 ms, donde obtenga una informacion de usuarios. Si el usuario esta logueado (isLogged) la promesa se resueve con los usuarios (users), si no se rechaza un mensaje diciendo "No estas logueado dentro de la app". Dentro de cada usuario hay una propiedad id de persona (personId) que servirá para obtener la informacion de cada persona, simulando otra peticion tambien con delay de 5000 ms que se resolvera con cada persona dentro de la lista persons.
+
+Notas: 
+- Usar Promise.all para la segunda peticion fake, es decir la que obtiene las personas.
+- La promesa de obtener personas debe recibir como parametro un usuario
 
 ```javascript
 const isLogged = true;
@@ -35,4 +39,17 @@ const persons = [
     lastname: 'Benitez'
   },
 ];
+
+function getUsers() {
+  return new Promise((resolve, reject) => {
+    // ...aqui tu codigo
+  });
+}
+
+function getPerson(user) {
+  return new Promise((resolve) => {
+    // ...aqui tu codigo
+  });
+}
+
 ```
