@@ -1,4 +1,4 @@
-# Tarea: Colaboración en Repositorio Git
+# Tarea 2: Colaboración en Repositorio Git
 
 ### Objetivo:
 

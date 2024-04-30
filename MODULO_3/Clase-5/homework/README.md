@@ -1,4 +1,4 @@
-# Tarea: Algorimia
+# Tarea 4: Algorimia
 Como tarea te propnemos dos ejercicios de algoritmia.
 
 ### 1. Programa para calcular descuentos

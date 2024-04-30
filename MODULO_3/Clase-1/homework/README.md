@@ -1,4 +1,4 @@
-# Tarea: Uso de comandos Git
+# Tarea 1: Uso de comandos Git
 
 ### Objetivo:
 

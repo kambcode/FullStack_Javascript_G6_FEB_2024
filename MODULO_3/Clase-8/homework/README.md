@@ -1,4 +1,4 @@
-# Tarea ES6 Arrays
+# Tarea 6 ES6 Arrays
 
 Manipulación Básica de Arrays y Objetos
 

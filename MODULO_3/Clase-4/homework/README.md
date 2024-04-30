@@ -1,4 +1,4 @@
-# Tarea: Diagramas de flujo
+# Tarea 3: Diagramas de flujo
 
 Como tarea te proponemos crear algunos diagramas de flijo dados los siguientes problemas
 
