@@ -57,3 +57,4 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - 24/04/2024 ES6 arrays features y scope https://youtu.be/5jS7zbU9JYA
 - 26/04/2024 Repaso de funciones y callbacks https://youtu.be/Qp_EfHKrpuQ
 - 29/04/2024 Repaso callbacks sincronos y asincronos, y promesas https://youtu.be/oXFYN6ORPu8
+- 02/05/2024 Repaso promesas y async/await https://youtu.be/Gh2iyXMfDTM
