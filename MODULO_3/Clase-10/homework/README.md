@@ -1,4 +1,4 @@
-# Tarea 8
+# Tarea 8: Promises, then y catch
 
 Hacer un programa que simule una peticion a un servidor, con delay de 2000 ms, donde obtenga una informacion de usuarios. Si el usuario esta logueado (isLogged) la promesa se resueve con los usuarios (users), si no se rechaza un mensaje diciendo "No estas logueado dentro de la app". Dentro de cada usuario hay una propiedad id de persona (personId) que servirá para obtener la informacion de cada persona, simulando otra peticion tambien con delay de 5000 ms que se resolvera con cada persona dentro de la lista persons.
 
