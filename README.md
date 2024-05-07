@@ -58,3 +58,4 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - 26/04/2024 Repaso de funciones y callbacks https://youtu.be/Qp_EfHKrpuQ
 - 29/04/2024 Repaso callbacks sincronos y asincronos, y promesas https://youtu.be/oXFYN6ORPu8
 - 02/05/2024 Repaso promesas y async/await https://youtu.be/Gh2iyXMfDTM
+- 06/05/2024 Repaso tareas asíncronas y resolución de ejercicios https://youtu.be/2bl6jQ-hUlk
